@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<h1><title>KEY SIGNATURE</title></h1>
+<style>
+body {
+  background-color: #faf2e4;
+  margin:0 10%;
+  font-family: sans-serif;
+  }
+h1 {
+   text-align: center;
+   font-family: serif;
+   font-weight: normal;
+   text-transform: uppercase;
+   border-bottom: 1px solid #57bidc;
+   margin-top: 30px;
+}
+h2 {
+color: #d1633c;
+font-size: 1em;
+}
+h3 {
+color: #d1633c;
+font-size: 1em;
+}
+h4 {
+color: #d1633c;
+font-size: 1em;
+}
+<style>
+</style>
+<body>
+<h2>
+<p>There  are two signs basically used to write and identify keys of music, these are <em>Flats and sharps</em>.</p>
+</h2>
+<h3><b>SHARPS (#) </b>
+</h3>
+<P>key G...#  GO</p>
+<p>   key D...##  DOWN</p>
+<p>   key A...###   AND</p>
+<p>   key E...####   EAT</p>
+<p>   Key B...#####   BY</p>
+<p>   Key F...######  FORCE</p>
+<p>   Key C#....#######   CAKE</P>
+<hr>
+<h4><b>FLATS (b) </b></h4>
+<p>Key F...b   FLAT</p>
+<p>   key B...bb   BECOMES</p>
+<p>   key E...bbb   EASY</P>
+<p>   key A...bbbb   AFTER</P>
+<p>   key D...bbbbb   DRINKING</p>
+<p>   key G...bbbbbb  GOOD</p>
+<p>   key C...bbbbbbb  COKE</p>
+</body>
+</head>
+</html>
